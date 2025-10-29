@@ -17,16 +17,19 @@
 <td>
 
 ### 🇪🇸 En español
-Soy un estudiante apasionado por la tecnología y el desarrollo de software.  
-Actualmente me enfoco en crear aplicaciones **educativas y accesibles**, especialmente para comunidades con recursos limitados.  
-Me motiva diseñar herramientas que generen un **impacto social positivo**.
+🎓 Estudiante de Ingeniería de Sistemas con interés en el desarrollo de software y la inteligencia artificial.
+Actualmente enfocado en fortalecer mis bases en programación, diseño de sistemas y análisis de datos.
+Me apasiona aprender tecnologías modernas y aplicarlas en proyectos educativos y de investigación.
 
 </td>
 <td>
 
 ### 🇬🇧 In English
-I’m a passionate **Systems Engineering student** and **Fullstack Developer** focused on building **educational and accessible applications**, especially for low-income communities.  
-My goal is to design technology that **creates real social impact**.
+🎓 Systems Engineering student with an interest in software development and artificial intelligence.
+
+Currently focused on strengthening my foundation in programming, systems design, and data analysis.
+
+I am passionate about learning modern technologies and applying them to educational and research projects.
 
 </td>
 </tr>
@@ -49,8 +52,8 @@ My goal is to design technology that **creates real social impact**.
 
 ## 📈 Estadísticas / Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical" alt="Top Langs" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gortizldev-collab&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gortizldev-collab&layout=compact&theme=radical" alt="Top Langs" height="165"/>
 </p>
 
 ---
@@ -61,20 +64,15 @@ My goal is to design technology that **creates real social impact**.
 <td>
 
 ### 🇪🇸 En español
-🎓 Estudiante de Ingeniería de Sistemas con interés en el desarrollo de software y la inteligencia artificial.
-Actualmente enfocado en fortalecer mis bases en programación, diseño de sistemas y análisis de datos.
-Me apasiona aprender tecnologías modernas y aplicarlas en proyectos educativos y de investigación.
+Estoy buscando fortalecer y consolidar mis bases en programación, diseño de sistemas y análisis de datos, con el objetivo de adquirir una comprensión más profunda de los principios fundamentales que sustentan estas áreas y desarrollar las habilidades prácticas necesarias para aplicarlas de manera efectiva en proyectos reales.
+
 
 </td>
 <td>
 
 ### 🇬🇧 In English
 
-🎓 Systems Engineering student with an interest in software development and artificial intelligence.
-
-Currently focused on strengthening my foundation in programming, systems design, and data analysis.
-
-I am passionate about learning modern technologies and applying them to educational and research projects.
+I am looking to strengthen and consolidate my foundations in programming, system design and data analysis, with the aim of acquiring a deeper understanding of the fundamental principles that underpin these areas and develop the practical skills necessary to apply them effectively in real projects.
 
 </td>
 </tr>
