@@ -51,10 +51,19 @@ I am passionate about learning modern technologies and applying them to educatio
 
 
 ## 📈 Estadísticas / Stats
+
+### 👤 GabiOrtizlo
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gortizldev-collab&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gortizldev-collab&layout=compact&theme=radical" alt="Top Langs" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GabiOrtizlo&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiOrtizlo&layout=compact&theme=radical" height="165"/>
 </p>
+
+### 👤gortizldev-collab
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gortizldev-collab&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gortizldev-collab&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
 
 ---
 
