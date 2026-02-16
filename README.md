@@ -5,7 +5,7 @@
 
 <p align="center">
   <strong>Gabriel Ortiz López</strong><br>
-  🎓 Estudiante de Ingeniería de Sistemas en la <b>CUC</b>)<br>
+  🎓 Estudiante de Ingeniería de Sistemas en la <b>CUC</b><br>
   💻 Desarrollador Fullstack Junior | 🌍 Barranquilla, Colombia
 </p>
 
